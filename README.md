@@ -5,4 +5,4 @@ navigate to ./profile-app
 
 type **npm install**
 
-type **run npm start**
+type **npm start**
